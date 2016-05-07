@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+    <metadata>
+        <id>$id$</id>
+        <version>1.0.0.0</version>
+        <title>$title$</title>
+        <authors>Oskar Gewalli</authors>
+        <owners>Oskar Gewalli</owners>
+        <licenseUrl>https://github.com/wallymathieu/FluentMigrator.Runner.ConnectionExecutor/blob/master/LICENSE.txt</licenseUrl>
+        <projectUrl>https://github.com/wallymathieu/FluentMigrator.Runner.ConnectionExecutor</projectUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>$description$</description>
+        <!--<releaseNotes>Summary of changes made in this release of the package.</releaseNotes>-->
+        <copyright>Copyright 2016</copyright>
+        <tags>FluentMigrator</tags>
+        <dependencies>
+            <dependency id="FluentMigrator" version="1.6.1" />
+            <dependency id="FluentMigrator.Runner" version="1.6.1" />
+        </dependencies>
+    </metadata>
+</package>
